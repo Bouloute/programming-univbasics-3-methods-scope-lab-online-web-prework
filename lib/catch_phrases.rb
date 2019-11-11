@@ -7,7 +7,7 @@ def mario
 end
 
 def toadstool
-  puts $status + "\n"
+  puts "Testing"
 end
 
 def link
