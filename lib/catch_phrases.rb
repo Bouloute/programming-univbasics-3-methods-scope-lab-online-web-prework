@@ -2,12 +2,12 @@ $phrase
 $status
 
 def mario
-  $status = 'Thank You Mario! But Our Princess Is In Another Castle!\n'
+  $status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   puts $phrase = "It's-a me, Mario!"
 end
 
 def toadstool
-  puts "Testing"
+  puts $status
 end
 
 def link
