@@ -8,6 +8,7 @@ end
 
 def toadstool
   puts $status
+  $status + "/n"
 end
 
 def link
